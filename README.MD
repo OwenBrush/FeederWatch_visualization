@@ -1,13 +1,9 @@
 # Visualization of data from Project Feeder Watch
 <br></br>
 
-## [View the visualization.](https://app.powerbi.com/view?r=eyJrIjoiOTZjNjE3YTQtOGNjZC00ZDFlLWI0ZGYtY2MzZDVmZDdjYzY5IiwidCI6IjEzZWNmZjM1LTM2NDAtNGIwYi1iZTA2LTAxYTUzMWMyZWNmNCJ9&pageName=ReportSection)
-
-<br></br>
+### [View the visualization.](https://app.powerbi.com/view?r=eyJrIjoiOTZjNjE3YTQtOGNjZC00ZDFlLWI0ZGYtY2MzZDVmZDdjYzY5IiwidCI6IjEzZWNmZjM1LTM2NDAtNGIwYi1iZTA2LTAxYTUzMWMyZWNmNCJ9&pageName=ReportSection)
 
 ### For information on the project, visit the [official website](https://feederwatch.org/).
-
-<br></br>
 
 ### About the Data:
 
