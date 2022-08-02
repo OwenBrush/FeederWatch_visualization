@@ -1,7 +1,8 @@
-# Visualization of data from Project Feeder Watch
-<br></br>
+# Project Feeder Watch Dashboard
 
-### [View the visualization.](https://app.powerbi.com/view?r=eyJrIjoiOTZjNjE3YTQtOGNjZC00ZDFlLWI0ZGYtY2MzZDVmZDdjYzY5IiwidCI6IjEzZWNmZjM1LTM2NDAtNGIwYi1iZTA2LTAxYTUzMWMyZWNmNCJ9&pageName=ReportSection)
+With this dashboard you can easily view the goegraphic sightings of any bird over any period of time across project feeder watch's history.
+<br></br>
+### [View the Dashboard.](https://app.powerbi.com/view?r=eyJrIjoiOTZjNjE3YTQtOGNjZC00ZDFlLWI0ZGYtY2MzZDVmZDdjYzY5IiwidCI6IjEzZWNmZjM1LTM2NDAtNGIwYi1iZTA2LTAxYTUzMWMyZWNmNCJ9&pageName=ReportSection)
 
 ### For information on the project, visit the [official website](https://feederwatch.org/).
 
